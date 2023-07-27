@@ -431,12 +431,13 @@ a{
     align-items: center;
   }
   div#background_2022:hover{
-    height: 30%;
+    height: 50%;
+    object-fit: cover;
     padding-bottom: 30px;
     .hovered{
       display: flex;
       flex-wrap: nowrap;
-      justify-content: end;
+      justify-content: start;
       animation: slideLefttoRight 0.5s ease-in-out;
     }
   }
@@ -465,12 +466,12 @@ a{
     align-items: center;
   }
   div#background_2021:hover{
-    height: 40%;
+    height: 50%;
     padding-bottom: 40px;
     .hovered{
       display: flex;
       flex-wrap: nowrap;
-      justify-content: end;
+      justify-content: start;
       animation: slideLefttoRight 0.5s ease-in-out;
     }
   }
@@ -503,11 +504,11 @@ a{
     align-items: center;
   }
   div#background_2020:hover{
-    height: 30%;
+    height: 50%;
     .hovered{
       display: flex;
       flex-wrap: nowrap;
-      justify-content: end;
+      justify-content: start;
       animation: slideLefttoRight 0.5s ease-in-out;
     }
   }
@@ -538,7 +539,7 @@ a{
     align-items: center;
   }
   div#background_2019:hover{
-    height: 30%;
+    height: 50%;
     .hovered{
       display: flex;
       flex-wrap: nowrap;
