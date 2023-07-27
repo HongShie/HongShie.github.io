@@ -127,9 +127,15 @@ div#right_part_2019{
   height: 100%;
   align-items: center;
 }
-div#right_part_2019>p{
-  color: aliceblue;
+div#right_part_2019>a{
+  padding: 10px;
+  padding-left: 30px;
   padding-right: 30px;
+  background-color: aliceblue;
+  border-radius: 30px;
+  overflow: hidden;
+  color: #E0C9A6;
+  margin-right: 30px;
   font-weight: 600;
   font-size: 40px;
 }
@@ -178,9 +184,15 @@ div#right_part_2020{
   height: 100%;
   align-items: center;
 }
-div#right_part_2020>p{
-  color: aliceblue;
+div#right_part_2020>a{
+  padding: 10px;
+  padding-left: 30px;
   padding-right: 30px;
+  background-color: aliceblue;
+  border-radius: 30px;
+  overflow: hidden;
+  color: #E0C9A6;
+  margin-right: 30px;
   font-weight: 600;
   font-size: 40px;
 }
@@ -229,9 +241,15 @@ div#right_part_2021{
   height: 100%;
   align-items: center;
 }
-div#right_part_2021>p{
-  color: aliceblue;
+div#right_part_2021>a{
+  padding: 10px;
+  padding-left: 30px;
   padding-right: 30px;
+  background-color: aliceblue;
+  border-radius: 30px;
+  overflow: hidden;
+  color: #E0C9A6;
+  margin-right: 30px;
   font-weight: 600;
   font-size: 40px;
 }
@@ -281,9 +299,15 @@ div#right_part_2022{
   height: 100%;
   align-items: center;
 }
-div#right_part_2022>p{
-  color: aliceblue;
+div#right_part_2022>a{
+  padding: 10px;
+  padding-left: 30px;
   padding-right: 30px;
+  background-color: aliceblue;
+  border-radius: 30px;
+  overflow: hidden;
+  color: #E0C9A6;
+  margin-right: 30px;
   font-weight: 600;
   font-size: 40px;
 }
