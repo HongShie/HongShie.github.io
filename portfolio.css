@@ -100,17 +100,17 @@ div#background_2019:hover{
     animation: slideLefttoRight 0.5s ease-in-out;
   }
   #content_2019{
-    background-color: #e0c9a623;
-    animation: colortransitionin 0.5s ease-in-out;
+    background-color: #e0c9a6b7;
+    animation: colortransitionout 0.5s ease-in-out;
   }
 }
 div#content_2019{
-  background-color: #e0c9a6b7;
+  background-color: #e0c9a623;
   display: flex;
   flex-wrap: nowrap;
   width: 100%;
   height: 100%;
-  animation: colortransitionout 0.5s ease-in-out;
+  animation: colortransitionin 0.5s ease-in-out;
 }
 div#left_part_2019{
   display: flex;
@@ -157,17 +157,17 @@ div#background_2020:hover{
     animation: slideLefttoRight 0.5s ease-in-out;
   }
   #content_2020{
-    background-color: #e0c9a623;
-    animation: colortransitionin 0.5s ease-in-out;
+    background-color: #e0c9a6b7;
+    animation: colortransitionout 0.5s ease-in-out;
   }
 }
 div#content_2020{
-  background-color: #e0c9a6b7;
+  background-color: #e0c9a623;
   display: flex;
   flex-wrap: nowrap;
   width: 100%;
   height: 100%;
-  animation: colortransitionout 0.5s ease-in-out;
+  animation: colortransitionin 0.5s ease-in-out;
 }
 div#left_part_2020{
   display: flex;
@@ -214,17 +214,17 @@ div#background_2021:hover{
     animation: slideLefttoRight 0.5s ease-in-out;
   }
   #content_2021{
-    background-color: #e0c9a623;
-    animation: colortransitionin 0.5s ease-in-out;
+    background-color: #e0c9a6b7;
+    animation: colortransitionout 0.5s ease-in-out;
   }
 }
 div#content_2021{
-  background-color: #e0c9a6b7;
+  background-color: #e0c9a623;
   display: flex;
   flex-wrap: nowrap;
   width: 100%;
   height: 100%;
-  animation: colortransition 0.5s ease-in-out;
+  animation: colortransitionin 0.5s ease-in-out;
 }
 div#left_part_2021{
   display: flex;
@@ -272,17 +272,17 @@ div#background_2022:hover{
     animation: slideLefttoRight 0.5s ease-in-out;
   }
   #content_2022{
-    background-color: #e0c9a623;
-    animation: colortransitionin 0.5s ease-in-out;
+    background-color: #e0c9a6b7;
+    animation: colortransitionout 0.5s ease-in-out;
   }
 }
 div#content_2022{
-  background-color: #e0c9a6b7;
+  background-color: #e0c9a623;
   display: flex;
   flex-wrap: nowrap;
   width: 100%;
   height: 100%;
-  animation: colortransitionout 0.5s ease-in-out;
+  animation: colortransitionin 0.5s ease-in-out;
 }
 div#left_part_2022{
   display: flex;
