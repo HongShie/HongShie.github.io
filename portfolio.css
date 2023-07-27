@@ -331,6 +331,7 @@ p{
 }
 a{
   text-decoration: none;
+  font-family: 'Outfit', sans-serif;
   color: rgba(0, 0, 0, 0.75);
 }
 @keyframes slideDown {
