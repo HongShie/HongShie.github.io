@@ -179,7 +179,7 @@ a{
   }
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 600px) {
   div#navigation_bar{
     display: flex;
     flex-wrap: wrap;
