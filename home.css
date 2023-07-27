@@ -44,6 +44,7 @@ div#left_content{
   padding-left: 75px;
 }
 div#button_1{
+  font-family: 'Outfit', sans-serif;
   display: flex;
   flex-wrap: nowrap;
   margin-top: 20px;
@@ -75,6 +76,7 @@ div#button_1:hover{
 }
 
 div#button_2{
+  font-family: 'Outfit', sans-serif;
   margin-top: 20px;
   background-color: aliceblue;
   color: rgba(0, 0, 0, 0.8);
