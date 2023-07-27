@@ -321,6 +321,20 @@ a{
     border-left: #E0C9A6;
     border-right: #E0C9A6;
   }
+  div#bottom_left div{
+    padding-left: 0px;
+  }
+  div#bottom_left h3{
+    padding-left: 30px;
+  }
+  div#skill_list{
+    display: flex;
+    flex-wrap: nowrap;
+    margin-left: 20px;
+  }
+  div#skill_list img{
+    margin-right: 30px;
+  }
   div#bottom_right{
     width: 100%;
     height: 50%;
