@@ -575,4 +575,7 @@ a{
     padding-left: 30px;
     align-items: start;
   }
+  h2{
+    font-size: 32px;
+  }
 }
