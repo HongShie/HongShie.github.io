@@ -99,10 +99,10 @@ export const DATA = {
         "Inserting cash flow data into company's local database, filing records, invoices, preparing payment voucher, and operating weighing station",
     },
     {
-      company: "Tinggi Maju Plantation Sdn Bhd",
+      company: "LPC Daycare Centre",
       href: "",
       badges: [],
-      location: "Benta, Pahang",
+      location: "Setia Alam, Klang",
       title: "Teacher Assistant",
       logoUrl: "/lpc.jpeg",
       start: "April 2020",
