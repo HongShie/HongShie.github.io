@@ -87,14 +87,14 @@ export const DATA = {
         "Implemented part of the SKU (Store Keeping Unit) management as per request by the Human Resource of the company using Angular, Typescript, and Node.js.",
     },
     {
-      company: "Tinggi Maju Plantation Sdn Bhd",
+      company: "Tinggi Maju Plantation",
       href: "",
       badges: [],
       location: "Benta, Pahang",
       title: "Administrator Intern",
       logoUrl: "/null.png",
-      start: "January 2024",
-      end: "April 2024",
+      start: "Jan 2024",
+      end: "Apr 2024",
       description:
         "Inserting cash flow data into company's local database, filing records, invoices, preparing payment voucher, and operating weighing station",
     },
@@ -105,8 +105,8 @@ export const DATA = {
       location: "Setia Alam, Klang",
       title: "Teacher Assistant",
       logoUrl: "/lpc.jpeg",
-      start: "April 2020",
-      end: "April 2021",
+      start: "Apr 2020",
+      end: "Apr 2021",
       description:
         "Maintained a positive and productive classroom environment during downtime. Collaborated with permanent teachers and staff to understand lesson plans",
     },
