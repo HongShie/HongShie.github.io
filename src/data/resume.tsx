@@ -84,7 +84,7 @@ export const DATA = {
       start: "Oct 2024",
       end: "Jan 2025",
       description:
-        "Implemented part of the SKU (Store Keeping Unit) management as per request by the Human Resource of the company using Angular, Typescript, and Node.js.",
+        "Implemented part of the SKU (Store Keeping Unit) management, Request Approval management as per request by the Human Resource of the company using Angular, Typescript, and Node.js.",
     },
     {
       company: "Tinggi Maju Plantation",
@@ -109,6 +109,18 @@ export const DATA = {
       end: "Apr 2021",
       description:
         "Maintained a positive and productive classroom environment during downtime. Collaborated with permanent teachers and staff to understand lesson plans",
+    },
+    {
+      company: "Multi Management Services",
+      href: "",
+      badges: [],
+      location: "Taman Berkeley, Klang",
+      title: "Administrator Assistant",
+      logoUrl: "/null.png",
+      start: "Oct 2019",
+      end: "Jan 2020",
+      description:
+        "Assisting in filing records, invoices, preparing payment voucher",
     },
   ],
   education: [
