@@ -178,7 +178,7 @@ export const DATA = {
       dates: "Sept 2023 - Oct 2023",
       active: true,
       description:
-        "This website is created for better comprehensibility on how each web structure and design that reflects to the company must be thoroughly considered before implementing into the real world.",
+        "This website is created for better understanding on e-commerce layout",
       technologies: [
         "PHP",
         "CSS",

@@ -1,4 +1,5 @@
 import { HackathonCard } from "@/components/hackathon-card";
+import { SpeedInsights } from "@vercel/speed-insights/next"
 import BlurFade from "@/components/magicui/blur-fade";
 import BlurFadeText from "@/components/magicui/blur-fade-text";
 import { ProjectCard } from "@/components/project-card";
@@ -220,6 +221,7 @@ export default function Page() {
           </BlurFade>
         </div>
       </section>
+      <SpeedInsights/>
     </main>
   );
 }
