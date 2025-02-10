@@ -151,6 +151,29 @@ export const DATA = {
   ],
   projects: [
     {
+      title: "YvonneWorks",
+      href: "https://yvonneworks.vercel.app",
+      dates: "Jan 2025 - Current",
+      active: true,
+      description:
+        "This website is created for better understanding on e-commerce layout",
+      technologies: [
+        "NextJs",
+        "Vercel",
+        "Node",
+        "Aceternity",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://yvonneworks.vercel.app",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/yvonneworks.png",
+      video: "",
+    },
+    {
       title: "Travel At Yolo",
       href: "https://hongshie.github.io/travel-at-yolo/",
       dates: "Jun 2023 - July 2023",
