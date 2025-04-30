@@ -126,7 +126,7 @@ export const DATA = {
   education: [
     {
       school: "New Era University College",
-      href: "https://www.newera.edu.my/index.php",
+      // href: "https://www.newera.edu.my/index.php",
       degree: "Bachelor of Computer Science (Hons) in Software Engineering",
       logoUrl: "/newera.png",
       start: "2023",
@@ -134,7 +134,7 @@ export const DATA = {
     },
     {
       school: "New Era University College",
-      href: "https://www.newera.edu.my/index.php",
+      // href: "https://www.newera.edu.my/index.php",
       degree: "Diploma in Computer Science",
       logoUrl: "/newera.png",
       start: "2021",
@@ -142,7 +142,7 @@ export const DATA = {
     },
     {
       school: "SMJK Kwang Hua Klang",
-      href: "https://www.facebook.com/p/SMJK-KWANG-HUA-KLANG-100025979329899/",
+      // href: "https://www.facebook.com/p/SMJK-KWANG-HUA-KLANG-100025979329899/",
       degree: "SPM (Sijil Pelajaran Malaysia)",
       logoUrl: "/kwanghua.jpg",
       start: "2014",
