@@ -75,7 +75,19 @@ export const DATA = {
 
   work: [
     {
-      company: "Cheng Hua Engineering",
+      company: "Cheng Hua Engineering Sdn Bhd",
+      href: "https://www.chenghua-m.com",
+      badges: [],
+      location: "Taman Sentosa, Klang",
+      title: "Full Stack Developer",
+      logoUrl: "/chenghua.png",
+      start: "May 2025",
+      end: "Current",
+      description:
+        "Implementing core functions on current developing internal system for the sake of digitalization for the company ",
+    },
+    {
+      company: "Cheng Hua Engineering Sdn Bhd",
       href: "https://www.chenghua-m.com",
       badges: [],
       location: "Taman Sentosa, Klang",
